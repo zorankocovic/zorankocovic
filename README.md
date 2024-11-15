@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 
 👨‍💻 Programming languages <br> <br>
 Kotlin, PHP, Java, JavaScript, HTML <br> <br>
 🗄️ Databases <br>
